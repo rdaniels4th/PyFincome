@@ -90,4 +90,4 @@ Thank you for exploring PyFincome, your companion for navigating the complexitie
 
 ## Contributors
 
-- [Royden E. Daniels IV] - Author and maintainer of PyFincome.
+- [Royden E. Daniels IV] - Author
